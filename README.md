@@ -25,11 +25,11 @@
 
 <p align="center">
   <a href="https://github.com/ocaldeira/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ocaldeira#version3"/>
   </a>
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/Ocaldeira?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 ## 🙋‍♂️ Connect with me:
 
@@ -98,19 +98,13 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/ocaldeira/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ocaldeira&show_icons=true&count_private=true&hide=contribs,prs" /></a>
+  <a href="https://github.com/ocaldeira/github-readme-stats"><img alt="Ocaldeira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ocaldeira&show_icons=true&count_private=true&hide=contribs,prs" /></a>
 </details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocaldeira&langs_count=10&layout=compact#" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ocaldeira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocaldeira&langs_count=10&layout=compact#" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
-
-
------
-Credits: [DenverCoder1](https://github.com/DenverCoder1)
-
-Last Edited on: 15/01/2021
