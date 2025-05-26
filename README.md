@@ -108,3 +108,19 @@
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
+
+# <img src='https://media1.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif?cid=6c09b9520fbeh3st3881aensbfaaw9cvqfnfblovomtx4q8g&ep=v1_gifs_search&rid=giphy.gif&ct=g' width="50" height="40px"> GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ocaldeira&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ocaldeira&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ocaldeira&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# <img src='https://i.gifer.com/6x6G.gif' width="50" height="40px"> GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ocaldeira&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ocaldeira&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+# <img src="https://content.presentermedia.com/files/animsp/00006000/6550/pie_chart_stick_figure_runner_lg_wm.gif" width="70" height="50px"> Code Chronicles & Insights
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ocaldeira&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ocaldeira&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gtarafdar&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ocaldeira&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gtarafdar&theme=algolia&utcOffset=8)  
