@@ -32,7 +32,6 @@ Hi! I’m Oscar — also known as **Ocaldeira** — a creative technologist pass
 - 🌐 Check out some of my work on [my portfolio](https://oscarcaldeira.com)
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white)](https://oscarcaldeira.com)
-[![Links to free stuff](https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white)](http://eyl327.mywebcommunity.org/promos/)
 
 ## 🔥 My contribution streak
 
