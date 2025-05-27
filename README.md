@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  🚀 Full Stack Developer | 💡 AI-Powered Product Creator | 🇵🇹 Based in Madeira  
+  🚀 Full Stack Developer | 💡 AI-Developer &  Product Manager | 🇵🇹 Based in Madeira  
 </p>
 
 <p align="center">
