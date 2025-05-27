@@ -109,7 +109,7 @@
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
 
-#GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ocaldeira&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ocaldeira&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ocaldeira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
