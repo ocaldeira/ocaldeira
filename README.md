@@ -1,25 +1,38 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Oscar</a> - aka Ocaldeira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">
+  👋 Hey there, I'm <a href="https://freshidea.com/jonah/" target="_blank">Oscar</a> — also known as <strong>Ocaldeira</strong>  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28" />
+</h3>
 
 <p align="center">
- 
-  <a href="https://twitter.com/cre4tiva_"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/cre4tiva_?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/ocaldeira"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ocaldeira?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  🚀 Full Stack Developer | 💡 AI-Powered Product Creator | 🇵🇹 Based in Madeira  
 </p>
 
-## 📖 About me
-
-* 💻 I'm a full stack developer
-* 🎨 I'm a AI developer & product manager
-* 📱 I make apps for web, Android and iOS
-* 🎓 I'm a Software Engineer
-* 🌐 You can see some of my projects on [my portfolio](https://oscarcaldeira.com)
-
-<p align="left">
-  <a href="https://oscarcaldeira.com"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
-    <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
+<p align="center">
+  <a href="https://twitter.com/cre4tiva_">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/cre4tiva_?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/ocaldeira">
+    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/ocaldeira?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+  </a>
 </p>
+
+## 📖 About Me
+
+Hi! I’m Oscar — also known as **Ocaldeira** — a creative technologist passionate about building meaningful digital experiences.
+
+- 💻 Full Stack Developer with a focus on clean, scalable code  
+- 🤖 AI Engineer & Product Manager — I design, build, and launch intelligent products  
+- 📱 Cross-platform App Creator — Web, Android, and iOS  
+- 🎓 Trained Software Engineer with 15+ years of experience across industries  
+- 🌍 Currently based in beautiful Madeira, Portugal 🇵🇹  
+- 🚀 Curious, impact-driven, and always building something new  
+- 🌐 Check out some of my work on [my portfolio](https://oscarcaldeira.com)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white)](https://oscarcaldeira.com)
+[![Links to free stuff](https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white)](http://eyl327.mywebcommunity.org/promos/)
 
 ## 🔥 My contribution streak
 
