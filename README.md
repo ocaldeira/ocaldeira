@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/ocaldeira/ocaldeira/blob/main/oscar.png?raw=true" height="175px"/></a>
 
 <h3 align="center">
   👋 Hey there, I'm <a href="https://freshidea.com/jonah/" target="_blank">Oscar</a> — also known as <strong>Ocaldeira</strong>  
